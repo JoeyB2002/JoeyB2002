@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on getting more knowledge.
-- 🌱 I’m currently learning to become the best of my ability.
+- 🌱 I’m currently learning to become a great programmer.
 - 👯 I’m looking to collaborate on github and to see everyones awesome work ideas!
 - 🤔 I’m looking for help with python.
 - 💬 Ask me about how has life been.
