@@ -6,4 +6,3 @@
 - 🤔 I’m looking for help with python.
 - 💬 Ask me about how has life been.
 - ⚡ Fun fact: I like to play golf on my free time with friends and I've been working at a supermarket for 5 years now.
--->
